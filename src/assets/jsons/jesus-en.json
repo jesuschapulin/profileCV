@@ -1,0 +1,8 @@
+{  
+    "nombre":"jesus chapulin gonzalez",
+    "employee": {  
+        "id":       "jesus",   
+        "salary":      56000,   
+        "married":    true  
+    }  
+}  

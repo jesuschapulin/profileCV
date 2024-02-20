@@ -1,0 +1,127 @@
+{  
+    "name":"Jesús Chapulín González",
+    "skillsList":{
+        "concat":"Soy ",
+        "description":"Full Stack Web Developer, UI/UX Designer"
+    },
+    "links":{
+        "facebook":"https://www.facebook.com/chapsjesusgz/",
+        "instagram":"https://www.instagram.com/chapsjesus/",
+        "twitter":"https://twitter.com/jesus_chap73670",
+        "linkedin":"https://www.linkedin.com/in/jesus-chapulin-gonzalez/",
+        "skype":"https://join.skype.com/invite/yRh327IS6pJ7"
+    },
+    "sections":{
+        "general":       "General",   
+        "about":      "Acerca de",   
+        "resume":    "Resumen",
+        "portfolio":    "Proyectos" ,
+        "services":    "Servicios",
+        "contact":    "Contactar",
+        "facts":    "Alcances",
+        "skills":    "Habilidades en desarrollo de software"
+    },
+    "information": {  
+        "general":       "Información general",   
+        "about":      "Acerca de habilidades",   
+        "resume":    "Actividad profesional",
+        "portfolio":    "Proyectos en los que e colaborado" ,
+        "services":    "Servicios prestados",
+        "contact":    "Ponerse en contacto",
+        "generalIntroducion":"Desarrollador del software en distintos lenguajes de programación con una amplia gama de conocimientos en el control de módulos para mejorar el desempeño de las aplicaciones y alcanzar las metas trazadas.",
+        "generalDescription":"La formación profesional en el ámbito de la tecnología es indispensable para poder incursionar en el mundo del desarrollo de software, con el paso del tiempo y con el trabajo diario con herramientas se va adquiriendo un placer genuino por la colaboración con muchas personas que a su ves ayuda a alcanzar metas en cada proyecto que se participa.",
+        "generalFormation":"Ingeniero en sistemas computacionales",
+        "generalSchool":"Tecnológico de Estudios Superiores de Valle de Bravo",
+        "generalData":{
+            "birthday":"<b>Nacimiento:</b> 22 Julio 1994",
+            "age":"<b>Age:</b> 29",
+            "degree":"<b>Grado obtenido:</b> Licenciatura",
+            "phone":"<b>Teléfono:</b> 722 511 7068",
+            "email":"<b>Correo electrónico:</b> jesus.chapulin.gonzalez@gmail.com",
+            "city":"<b>Ciudad:</b> Toluca, México",
+            "job":"<b>Disponibilidad:</b> libre"
+        },
+        "contactData":{
+            "phone":"Teléfono",
+            "numberPhone":"722 511 7068",
+            "email":"Correo electrónico",
+            "emailDirection":"jesus.chapulin.gonzalez@gmail.com",
+            "city":"Ciudad",
+            "cityLocation":"Toluca, México"
+        },
+        "factsIntroducion":"Participar en una multiple cantidad de proyectos con distintas tecnologías me ha llevado a adquirir mas habilidades en el desarrollo de software",
+        "factsData":{
+            "proyects":"6",
+            "happyProyects":"Proyectos felices",
+            "developed":"30",
+            "developedProyects":"Proyectos ",
+            "hours":"18200",
+            "hoursDeveloped":"Horas de experiencia en desarrollo",
+            "awards":"8",
+            "awardsObtanined":"Reconocimientos obtenidos"
+        },
+        "skillsIntroduction":"Una gran cantidad de habilidades en manejo de lenguajes de programación para desarrollo de Front-end y Back-end ademas de la experiencia que tengo en proyectos como Full Stack developer",
+        "skillsData":{
+            "htmlPorcent":"100",
+            "html":"HTML",
+            "cssPorcent":"98",
+            "css":"CSS",
+            "javascriptPorcent":"90",
+            "javascript":"JavaScript",
+            "angularPorcent":"89",
+            "angular":"Angular",
+            "phpPorcent":"70",
+            "php":"PHP",
+            "laravelPorcent":"70",
+            "laravel":"Laravel"
+        },
+        "resumeIntroduction":"Algunos proyectos en los que se me ha permitido desenvolverme de manera profesional aplicando y adquiriendo un basto conocimiento en el desarrollo de software",
+        "resumeProfesionalEx":"Experiencia profesional",
+        "resumeData":{
+            "jobLast":"Desarrollador java / Full Stack",
+            "jobLastPeriod":"2019 - 2023",
+            "jobLastPlace":"Toluca, México",
+            "jobLastActs":[
+                "Desarrollo, mantenimiento e implementación de nuevas funcionalidades en los procesos de manejo de datos",
+                "Desarrollo de capa de Front-end",
+                "Desarrollo de capa de Back-end",
+                "Implementación de mejoras de rendimiento SEO de la aplicación",
+                "Ejecución de procesos de actualización de datos generales",
+                "Orquestación de funcionalidades DevOPS",
+                "Web scraping con java y NodeJS",
+                "Macros de Excel, Control de usuarios, Control de calidad de publicaciones",
+                "Guía de recorridos en uso y desarrollo de la aplicación"
+            ],
+            "jobCaAca":"Desarrollador php / Full Stack",
+            "jobCaAcaPeriod":"2017 - 2018",
+            "jobCaAcaPlace":"Toluca, México",
+            "jobCaAcaActs":[
+                "Desarrollo del modulo de control de inventario con registro por medio de códigos QR y códigos de barras y alertas de expiración de medicamentos",
+                "Desarrollo de capa de Front-end",
+                "Desarrollo de capa de Back-end",
+                "Desarrollo de modulo de control de usuarios para ventas",
+                "Desarrollo de modulo de reportes de ventas de medicamentos",
+                "Desarrollo de modulo de control de citas con fecha"
+            ],
+            "education":"Educación",
+            "grade":"Ingeniería en sistemas computacionales",
+            "gradePeriod":"2013 - 2018",
+            "gradePlace":"Toluca, México",
+            "gradeInfo":"Titulo como ingeniero",
+            "bacherol":"Preparatoria Oficial 140",
+            "bacherolPeriod":"2009 - 2012",
+            "bacherolPlace":"Toluca, México",
+            "bacherolInfo":"Certificado de conclusión de estudios"
+        },
+        "portfolioIntroduction":"Algunos de los proyectos que en los que eh colaborado profesionalmente y algunos mas que se encuentran en un ambiente gratuito para que puedan ser examinados",
+        "portfolioData":{
+            "appLastJob":"redalyc.org",
+            "appLastJobLink":"https://redalyc.org",
+            "appLastJobImg":"assets/img/jobs/redalyc.jpg",
+            "appAngularUsers":"Control de usuarios",
+            "appAngularUsersLink":"https://node150639-env-9117163.fr-1.paas.massivegrid.net/users",
+            "appAngularUsersImg":"assets/img/jobs/appAngularUsers.jpg"
+        },
+        "slogan":"Ingeniero en sistemas computacionales, desarrollador de software por vocación y autodidacta de la web"
+    }  
+}  
