@@ -81,7 +81,11 @@ export class AppComponent implements OnInit {
             $.post(dominio+"/"+name+"/"+subject+"/"+email+"/"+message,function(res:any)
             {
               console.log("se envio el mensaje");
-
+              Swal.fire(
+                'El email se envió con éxito!',
+                '',
+                'success'
+              );
               $("#name").val("");
               $("#subject").val("");
               $("#email").val("");

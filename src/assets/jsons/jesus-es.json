@@ -73,7 +73,23 @@
             "phpPorcent":"70",
             "php":"PHP",
             "laravelPorcent":"70",
-            "laravel":"Laravel"
+            "laravel":"Laravel",
+            "javaPorcent":"90",
+            "java":"Java EE",
+            "springPorcent":"70",
+            "spring":"Spring",
+            "ibmServPorcent":"95",
+            "ibmServ":"IBM servers",
+            "mysqlPorcent":"95",
+            "mysql":"Mysql databases",
+            "oraclePorcent":"95",
+            "oracle":"Oracle databases",
+            "webScraptPorcent":"90",
+            "webScrapt":"Web scraping",
+            "dockerPorcent":"85",
+            "docker":"Docker",
+            "linuxPorcent":"80",
+            "linux":"Linux"
         },
         "resumeIntroduction":"Algunos proyectos en los que se me ha permitido desenvolverme de manera profesional aplicando y adquiriendo un basto conocimiento en el desarrollo de software",
         "resumeProfesionalEx":"Experiencia profesional",
@@ -116,11 +132,17 @@
         "portfolioIntroduction":"Algunos de los proyectos que en los que eh colaborado profesionalmente y algunos mas que se encuentran en un ambiente gratuito para que puedan ser examinados",
         "portfolioData":{
             "appLastJob":"redalyc.org",
+            "appLastJobDescription":"Sistema de información científica, código propiedad de la empresa",
             "appLastJobLink":"https://redalyc.org",
             "appLastJobImg":"assets/img/jobs/redalyc.jpg",
             "appAngularUsers":"Control de usuarios",
+            "appAngularUsersDescription":"Aplicación propia elaborada utilizando el modelo MVC, creando el entorno de la vista con Angular en la version 17, conectando con  micro servicios a springboot. Codigo proporcionado por medio del repositorio de github <strong><a href=\"https://github.com/jesuschapulin/frontendUsers/tree/forJelastic\" target=\"_blank\">Ver código</a></strong>",
             "appAngularUsersLink":"https://node150639-env-9117163.fr-1.paas.massivegrid.net/users",
-            "appAngularUsersImg":"assets/img/jobs/appAngularUsers.jpg"
+            "appAngularUsersImg":"assets/img/jobs/appAngularUsers.jpg",
+            "appBackUsers":"Back-end de usuarios",
+            "appBackUsersDescription":"Aplicación de back-end propia, se emplea el uso de springboot para la utilización de micro servicios, usando como base de datos mysql para su publicación en un servidor gratuito, asi como oracle 11 en la rama main <strong><a href=\"https://github.com/jesuschapulin/usersBackSpringboot/tree/withMysql\" target=\"_blank\">Ver código</a></strong>",
+            "appBackUsersLink":"https://github.com/jesuschapulin/usersBackSpringboot/tree/withMysql",
+            "appBackUsersImg":"assets/img/jobs/usersBackSpringboot.jpg"
         },
         "slogan":"Ingeniero en sistemas computacionales, desarrollador de software por vocación y autodidacta de la web"
     }  
